@@ -1,1 +1,1 @@
-script for printing current working directory
+solution script to all task on shell
